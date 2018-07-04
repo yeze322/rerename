@@ -5,6 +5,10 @@
   "main": "index.js",
   "scripts": {},
   "keywords": [],
-  "author": "zeye",
-  "license": "ISC"
+  "author": "yeze322@163.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yeze322/rerename"
+  }
 }
